@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusShow</string>
+    <string name="cad_musicas">Cadastro de Músicas</string>
+    <string name="play_list">PlayList</string>
+    <string name="hint_insira_titulo">Insira o Título</string>
+    <string name="hint_insira_letra">Insira a Letra da Música</string>
+    <string name="btn_Salvar">Salvar</string>
+    <string name="tit_musica">[Título da Musica]</string>
+    <string name="letra_musica">[Letra_Musica]</string>
+</resources>
