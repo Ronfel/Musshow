@@ -38,8 +38,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/letra_musica"
+                android:textAllCaps="false"
                 android:textColor="@android:color/black"
-                android:textSize="18sp" />
+                android:textSize="18sp"
+                android:textStyle="normal" />
         </LinearLayout>
     </ScrollView>
 

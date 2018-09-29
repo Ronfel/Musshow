@@ -4,8 +4,7 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import applistamusicas.rodrigosamuel.com.musshow.R
 import kotlinx.android.synthetic.main.activity_visualiza_musica.*
-import android.content.Intent
-import applistamusicas.rodrigosamuel.com.musshow.Classes.Musica
+import applistamusicas.rodrigosamuel.com.musshow.Modal.Musica
 
 
 class VisualizaMusicaActivity : AppCompatActivity() {
